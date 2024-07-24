@@ -7,15 +7,16 @@
 - 💬 Ask me about React, Tailwind CSS, Redux, JavaScript
 - 📫 How to reach me: sangam21196@iiitd.ac.in
 
-###Language and Tools:
-![C](https://img.shields.io/badge/C-11-blue)
-![C++](https://img.shields.io/badge/C%2B%2B-20.3-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.0-blue)
-![Redux](https://img.shields.io/badge/Redux-4.1.0-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4-brightgreen)
-![Express](https://img.shields.io/badge/Express-4.17.1-brightgreen)
-![Node.js](https://img.shields.io/badge/Node.js-16.4-green)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![React](https://img.shields.io/badge/React-16.13.1-brightgreen)
+### Language and Tools
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
 
 
