@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I am Sangam
 
-<!--
-**sangamrai001/sangamrai001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech ECE student at IIIT Delhi
+- Passionate about coding and new technology
+- 🌱 I’m currently learning backend development
+- 💬 Ask me about React, Tailwind CSS, Redux, JavaScript
+- 📫 How to reach me: sangam21196@iiitd.ac.in
 
-Here are some ideas to get you started:
+###Language and Tools:
+![C](https://img.shields.io/badge/C-11-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-20.3-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.0-blue)
+![Redux](https://img.shields.io/badge/Redux-4.1.0-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-brightgreen)
+![Express](https://img.shields.io/badge/Express-4.17.1-brightgreen)
+![Node.js](https://img.shields.io/badge/Node.js-16.4-green)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![React](https://img.shields.io/badge/React-16.13.1-brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
