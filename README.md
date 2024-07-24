@@ -4,7 +4,6 @@
 - B.Tech ECE student at IIIT Delhi
 - Passionate about coding and new technology
 - 🌱 I’m currently learning backend development
-- 💬 Ask me about React, Tailwind CSS, Redux, JavaScript
 - 📫 How to reach me: sangam21196@iiitd.ac.in
 
 ### Language and Tools
