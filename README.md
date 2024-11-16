@@ -12,7 +12,6 @@ I’m a driven Full Stack Developer passionate about crafting innovative, user-f
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [Sangam Rai](https://www.linkedin.com/in/sangamrai01/)
-- **GitHub:** [sangamrai001](https://github.com/sangamrai001)
 - **Email:** [sangamraikldsknk11111@gmail.com](mailto:sangamraikldsknk11111@gmail.com)
 
 Let’s build something amazing together! I’m always open to collaborations, tech discussions, or simply exploring new ideas. Feel free to reach out!
