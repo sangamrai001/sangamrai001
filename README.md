@@ -7,7 +7,6 @@ I’m a driven Full Stack Developer passionate about crafting innovative, user-f
 - **Full Stack Development (MERN Stack):** Building responsive web applications with React, Node.js, Express, and MongoDB.
 - **Programming Languages:** Proficient in C++, Python, JavaScript, SQL, and NoSQL databases.
 - **Tools & Technologies I Use:** Git, GitHub, Tailwind CSS, Figma, Postman, MySQL, Socket.io, Matplotlib, Pandas, and more!
-- **Focus Areas:** Efficient algorithms, data structures, system design, and scaling applications.
 
 ## 🌐 Connect With Me
 
